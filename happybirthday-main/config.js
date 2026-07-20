@@ -69,7 +69,7 @@ const CONFIG = {
       type: "profile",
       wishTitle: "İyi ki Doğdun Nisaa! 🎂",
       wishText:
-        "Mutluluk, sağlık, başarı ve sevgi dolu nice yılların olsun. Gülüşün hiç eksik olmasın! 💖",
+        "Mutluluk, sağlık, başarı ve sevgi dolu nice yılların olsun. Gülüşün hiç eksik olmasın! Daimaa Yanındayızz Primee And Markaa💖",
     },
     {
       type: "fireworks",
