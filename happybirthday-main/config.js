@@ -1,7 +1,7 @@
 const CONFIG = {
   // ── Doğum Günü Sahibi ─────────────────────────────────────────
   name: "Nisa",
-  photo: "./img/zisan.jpg",       // Fotoğrafı img klasörüne koy
+  photo: "./img/nisa.jpg",       // Fotoğrafı img klasörüne koy
   music: "./music/hbd.mpeg",      // Müziği music klasörüne koy
 
   // ── Tema Renkleri ─────────────────────────────────────────────
