@@ -23,7 +23,7 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Merhaba Zişan ❤️",
+      title: "Merhaba Nisaaa ❤️",
       subtitle: "Bugün senin en özel günün!",
     },
     {
@@ -38,7 +38,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "İyi ki doğdun Zişan! 🎂 Sana sağlık, mutluluk, başarı ve bol kahkahalarla dolu harika bir yıl diliyorum. Hayatındaki tüm güzellikler hep seninle olsun. Nice mutlu yaşlara! ❤️",
+        "İyi ki doğdun Nisaa! 🎂 Sana sağlık, mutluluk, başarı ve bol kahkahalarla dolu harika bir yıl diliyorum. Hayatındaki tüm güzellikler hep seninle olsun. Nice mutlu yaşlara! ❤️",
       buttonText: "Gönder",
     },
     {
