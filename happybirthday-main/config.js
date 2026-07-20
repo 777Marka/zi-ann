@@ -67,7 +67,7 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "İyi ki Doğdun Zişan! 🎂",
+      wishTitle: "İyi ki Doğdun Nisaa! 🎂",
       wishText:
         "Mutluluk, sağlık, başarı ve sevgi dolu nice yılların olsun. Gülüşün hiç eksik olmasın! 💖",
     },
